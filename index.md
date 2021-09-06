@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Process Mining (2021 Fall)
 
-You can use the [editor on GitHub](https://github.com/jjyjung/pmining/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Lecture Memo & Question Sheet
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일로 Google 로그인 필요)
+1. [실시간 강의메모 Google Doc](https://docs.google.com/document/d/1W5Xdrc8U26Q6rryIAS_o5lQIotwaeok0myewZpaVfqk)
+2. [강의질문지 Spreadsheet](https://docs.google.com/spreadsheets/d/1V7jakZjPTKyLyQIzT8Re8GIwJVlU-Qks4fhPR3VhbVI)
 
-### Markdown
+### 9/8(화) - Syllabus
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* ___강의목표___ : 강의 일정을 소개하고, 프로세스 마이닝의 개념 및 기법, 응용분야에 대하여 설명한다.
 
-```markdown
-Syntax highlighted code block
+* [2021 강의계획서]()
+* Introduction to Process Mining (by Wil van der Aalst) [YouTub](https://youtu.be/7oat7MatU_U)
+* Process Mining Manifesto ([영문판](https://drive.google.com/file/d/1dIe3vnYKHFzA9FDehhCR5O-QwtwRi2ok)/[한글판](https://drive.google.com/file/d/14DBntkV-gVwUsXt-a_S6xIg0wKy7rQ1F/view))
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jjyjung/pmining/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Supplementary Materials
+* IEEE Task Force on Process Mining ([new](https://www.tf-pm.org/), [old](https://www.win.tue.nl/ieeetfpm/))

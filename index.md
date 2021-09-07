@@ -3,8 +3,8 @@
 ### Lecture Memo & Question Sheet
 
 zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일로 Google 로그인 필요)
-1. [실시간 강의메모 Google Doc](https://docs.google.com/document/d/1W5Xdrc8U26Q6rryIAS_o5lQIotwaeok0myewZpaVfqk)
-2. [강의질문지 Spreadsheet](https://docs.google.com/spreadsheets/d/1V7jakZjPTKyLyQIzT8Re8GIwJVlU-Qks4fhPR3VhbVI)
+1. [실시간 강의메모 Google Doc](https://docs.google.com/document/d/1PB5GI8f8y4zpKgi4Ga0sYCAJZRHfEyTQhnhpRiJ_3Lk)
+2. [강의질문지 Spreadsheet](https://docs.google.com/spreadsheets/d/1dg3vtgoTn0zuOBqCDu6pVow7x0GiuxYNWc-5JkJxN9M)
 
 ### 9/8(화) - Syllabus
 

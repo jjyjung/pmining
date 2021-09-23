@@ -29,6 +29,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 
 * ___강의목표___ : 프로세스 모델링 방법들을 설명하고, 특히 Petri-net의 수학적 정의에 대하여 이해한다.
 * [Ch.2. Proces Modeling and Analysis](https://drive.google.com/file/d/1w4ok15_yAM703qIyB2p-Mv-sqSdx_aPW)
+* [Petri-net Overview](https://drive.google.com/file/d/1AePGcT4CjZxtm6XYTVOc32Q0BDajiz23)
 * [Ch.2. Proces Modeling and Analysis - Formalism](https://drive.google.com/file/d/1Fyi93LFxH37YFfNBSWYSPUSDIwrX9urf)
 
 

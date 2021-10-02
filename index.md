@@ -27,10 +27,21 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 
 ### 9/21(화) - Ch2. Proces Modeling and Analysis
 
-* ___강의목표___ : 프로세스 모델링 방법들을 설명하고, 특히 Petri-net의 수학적 정의에 대하여 이해한다.
+* ___강의목표___ : 프로세스 모델링 방법들을 설명하고, 특히 Petri-net의 개념에 대하여 이해한다.
 * [Ch.2. Proces Modeling and Analysis](https://drive.google.com/file/d/1w4ok15_yAM703qIyB2p-Mv-sqSdx_aPW)
 * [Petri-net Overview](https://drive.google.com/file/d/1AePGcT4CjZxtm6XYTVOc32Q0BDajiz23)
+
+
+### 9/28(화) - Ch2. Proces Modeling and Analysis
+
+* ___강의목표___ : Petri-net의 수학적 정의(Formal definition)에 대하여 설명한다.
 * [Ch.2. Proces Modeling and Analysis - Formalism](https://drive.google.com/file/d/1Fyi93LFxH37YFfNBSWYSPUSDIwrX9urf)
+
+
+### 10/5(화) - Ch4. Getting the Data
+
+* ___강의목표___ : Process Mining 입력 데이터의 수집 방법 및 XML 저장 형식에 대하여 설명한다.
+* [Ch.4. Getting the Data](https://drive.google.com/file/d/1rY_oKpbHbxVHjt8bkGZsMcUIA6WN89-r)
 
 
 ### Supplementary Materials

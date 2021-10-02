@@ -35,7 +35,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 ### 9/28(화) - Ch2. Proces Modeling and Analysis
 
 * ___강의목표___ : Petri-net의 수학적 정의(Formal definition)에 대하여 설명한다.
-* [Ch.2. Proces Modeling and Analysis - Formalism](https://drive.google.com/file/d/1Fyi93LFxH37YFfNBSWYSPUSDIwrX9urf)
+* Ch.2. Proces Modeling and Analysis - Formalism (Sorry. This slide is not provided.)
 
 
 ### 10/5(화) - Ch4. Getting the Data

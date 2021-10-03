@@ -44,5 +44,9 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 * [Ch.4. Getting the Data](https://drive.google.com/file/d/1rY_oKpbHbxVHjt8bkGZsMcUIA6WN89-r)
 
 
+### 11/2(화) - 중간고사(비대면, Zoom or e-Campus)
+- 비대면 시험은 10/27(수)~11/2(화) 사이에 시행하라는 학교 방침에 따라서, 11/2(화)으로 변경합니다.
+
+
 ### Supplementary Materials
 * IEEE Task Force on Process Mining ([new](https://www.tf-pm.org/), [old](https://www.win.tue.nl/ieeetfpm/))

@@ -47,6 +47,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 ### 10/12(화) - Ch5. Process Discovery(1)
 
 * ___강의목표___ : Process Discovery 알고리즘 중 Alpha algorithm에 대하여 설명한다.
+* [Ch.5. Process Discovery](https://drive.google.com/file/d/1Dw00SGUdzRqLt_9OQ6YEFXdqsVFz6W-o)
 * [Process Discovery - Alpha algorithm](https://youtu.be/lW8-AtRifEE)
 
 

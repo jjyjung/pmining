@@ -44,9 +44,16 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 * [Ch.4. Getting the Data](https://drive.google.com/file/d/1rY_oKpbHbxVHjt8bkGZsMcUIA6WN89-r)
 
 
+### 10/12(화) - Ch5. Process Discovery(1)
+
+* ___강의목표___ : Process Discovery 알고리즘 중 Alpha algorithm에 대하여 설명한다.
+* [Process Discovery - Alpha algorithm](https://youtu.be/lW8-AtRifEE)
+
+
 ### 11/2(화) - 중간고사(비대면, Zoom or e-Campus)
 - 비대면 시험은 10/27(수)~11/2(화) 기간에 시행하라는 학교 방침에 따라서, 11/2(화)으로 변경합니다.
 
 
 ### Supplementary Materials
 * IEEE Task Force on Process Mining ([new](https://www.tf-pm.org/), [old](https://www.win.tue.nl/ieeetfpm/))
+* Disco [download](https://fluxicon.com/disco/), [ExampleLog.csv](https://drive.google.com/file/d/1EZSjrhOtsa5EA9GVm1ceSXJX5gjzVPwj/view?usp=sharing), [running-example.csv](https://drive.google.com/file/d/1XcSaTr9DdTiB3SpAKGCr4GlHopR55Uny/view?usp=sharing)

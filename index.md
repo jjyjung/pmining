@@ -50,9 +50,18 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 * [Ch.5. Process Discovery](https://drive.google.com/file/d/1Dw00SGUdzRqLt_9OQ6YEFXdqsVFz6W-o)
 * [(YouTube) Process Discovery - Alpha algorithm](https://youtu.be/lW8-AtRifEE)
 
+### 10/19(화) - Ch5. Process Discovery(2)
+
+* ___강의목표___ : Process Discovery 알고리즘 중 Alpha algorithm에 대하여 설명한다.
+
+### 10/26(화) - Ch6. Advanced Process Discovery Techniques(1)
+
+* ___강의목표___ : Advanced Process Discovery 알고리즘에 대하여 소개한다.
+* [Ch6. Advanced Process Discovery Techniques](https://drive.google.com/file/d/1_HIpTTwi-SWdFzwIUyp_yHaHd_Zhll2s/view?usp=sharing)
 
 ### 11/2(화) - 중간고사(비대면, Zoom or e-Campus)
 - 비대면 시험은 10/27(수)~11/2(화) 기간에 시행하라는 학교 방침에 따라서, 11/2(화)으로 변경합니다.
+* [비대면시험](https://drive.google.com/file/d/1AQdk-yOGKStMqf8FWdDJ7TlgvR1hZ_SI)
 
 
 ### Supplementary Materials

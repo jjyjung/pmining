@@ -57,12 +57,16 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 ### 10/26(화) - Ch6. Advanced Process Discovery Techniques(1)
 
 * ___강의목표___ : Advanced Process Discovery 알고리즘에 대하여 소개한다.
-* [Ch6. Advanced Process Discovery Techniques](https://drive.google.com/file/d/1_HIpTTwi-SWdFzwIUyp_yHaHd_Zhll2s/view?usp=sharing)
+* [Ch.6. Advanced Process Discovery Techniques](https://drive.google.com/file/d/1_HIpTTwi-SWdFzwIUyp_yHaHd_Zhll2s/view?usp=sharing)
 
 ### 11/2(화) - 중간고사(비대면, Zoom or e-Campus)
 - 비대면 시험은 10/27(수)~11/2(화) 기간에 시행하라는 학교 방침에 따라서, 11/2(화)으로 변경합니다.
 * [비대면시험](https://drive.google.com/file/d/1AQdk-yOGKStMqf8FWdDJ7TlgvR1hZ_SI)
 
+### 10/26(화) - Ch7. Conformance Checking
+
+* ___강의목표___ : Conformance Checking에 대하여 소개한다.
+* [Ch.7. Conformance Checking](https://drive.google.com/file/d/1xXgMNklyyUuQXHuGN9GI1Pis7WECjB9X/)
 
 ### Supplementary Materials
 * IEEE Task Force on Process Mining ([new](https://www.tf-pm.org/), [old](https://www.win.tue.nl/ieeetfpm/))

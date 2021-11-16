@@ -64,9 +64,12 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 * [비대면시험](https://drive.google.com/file/d/1AQdk-yOGKStMqf8FWdDJ7TlgvR1hZ_SI)
 
 ### 10/26(화) - Ch7. Conformance Checking
-
 * ___강의목표___ : Conformance Checking에 대하여 소개한다.
 * [Ch.7. Conformance Checking](https://drive.google.com/file/d/1xXgMNklyyUuQXHuGN9GI1Pis7WECjB9X/)
+
+### 11/16(화) - Ch8. Mining Additional Perspectives
+* ___강의목표___ : Mining Additional Perspectives에 대하여 소개한다.
+* [Ch.8. Mining Additional Perspectives](https://drive.google.com/file/d/1J36KNAEBJUt6NJPR2Ss--BfO7eQn9BBz/)
 
 ### Supplementary Materials
 * IEEE Task Force on Process Mining ([new](https://www.tf-pm.org/), [old](https://www.win.tue.nl/ieeetfpm/))

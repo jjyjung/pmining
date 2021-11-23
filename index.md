@@ -78,3 +78,4 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 ### Supplementary Materials
 * IEEE Task Force on Process Mining ([new](https://www.tf-pm.org/), [old](https://www.win.tue.nl/ieeetfpm/))
 * Disco [download](https://fluxicon.com/disco/), [ExampleLog.csv](https://drive.google.com/file/d/1EZSjrhOtsa5EA9GVm1ceSXJX5gjzVPwj/view?usp=sharing), [running-example.csv](https://drive.google.com/file/d/1XcSaTr9DdTiB3SpAKGCr4GlHopR55Uny/view?usp=sharing)
+* [Process Mining Event Logs](https://www.tf-pm.org/resources/logs)
